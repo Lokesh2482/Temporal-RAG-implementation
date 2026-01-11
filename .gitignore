@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.log
+
+# Environment
+.env
+
+# Data
+data/
+outputs/
+
+# Credentials
+credentials/
+
+# VSCode
+.vscode/
+
+
+.env
+credentials.json
+credentials/
+__pycache__/
+.chromadb/
+outputs/
+data/
+*.pem
+*.key
+

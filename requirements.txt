@@ -1,0 +1,9 @@
+pathway
+langchain-google-genai
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+rank-bm25
+python-dotenv
+pandas
